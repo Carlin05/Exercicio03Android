@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Exercicio03SO</string>
+    <string name="text_valor1">1º Valor</string>
+    <string name="text_valor2">2º Valor</string>
+    <string name="et_valor1">Digite o 1º Valor</string>
+    <string name="et_valor2">Digite o 2º Valor</string>
+    <string name="btnMaior">Comparar</string>
+    <string name="btnSomar">Somar</string>
+</resources>
